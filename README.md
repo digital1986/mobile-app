@@ -28,6 +28,7 @@ Make sure you have the following installed:
   npm install -g expo-cli
 
 git clone https://github.com/digital1986/mobile-app
+
 cd mobile-app
 npm install
 npm start
