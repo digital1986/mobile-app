@@ -30,7 +30,9 @@ Make sure you have the following installed:
 git clone https://github.com/digital1986/mobile-app
 
 cd mobile-app
+
 npm install
+
 npm start
 
 Press a to open in Android
