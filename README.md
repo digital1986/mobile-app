@@ -1,3 +1,6 @@
+[![Video link](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*kTQTWkf589E1CoJs.jpg)](https://youtu.be/okodJW8DCiI)
+
+
 # React Native Expo App
 
 This is a mobile app built with **React Native** using **Expo**. It includes a variety of libraries for navigation, UI components, gesture handling, and image picking.
