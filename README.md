@@ -1,4 +1,4 @@
-[![Video link](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*kTQTWkf589E1CoJs.jpg)](https://youtu.be/okodJW8DCiI)
+[![Video link](https://www.ingeniumweb.com/in/images/how-to-create-a-mobile-app-interface-design/4916.png)](https://youtu.be/okodJW8DCiI)
 
 
 # React Native Expo App
